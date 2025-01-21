@@ -44,15 +44,19 @@ getData.r est le seul fichier a simplement sourcer
 
 ![](/img/3.png)
 
--   En haut de cette page internet, cliquez sur "getData.R". Une nouvelle fenetre va s'ouvrir.En haut à droite de cette page, appuyer sur le bouton représentant deux carrés supperposé. Ceci copie le code du fichier dans le  presse-papier.
+-   En haut de cette page internet, cliquez sur "getData.R". Une nouvelle fenetre va s'ouvrir .En haut à droite de cette page, appuyer sur le bouton représentant deux carrés supperposé. Ceci copie le code du fichier dans le  presse-papier.
 
 ![](/img/4.png) ![](/img/5.png)
 
--   Une fois le code copié, retour sur votre fichier R (dasn Rstudio) dans lequel il faut copier le code (ctrl-v ou bien le clic droit de la souris).
+-   Une fois le code copié, retour sur votre fichier R (dans Rstudio) dans lequel il faut copier le code (ctrl-v ou bien le clic droit de la souris).
 
 
 -   Une fois ce code copié, il ne vous reste plus qu'à lancer le script avec le bouton "source" en haut a droite de la fenêtre dans laquelle vous voyez le code.
 
 ![](/img/6.png)
+
+- RStudio devrait maintenant faire défiler plein de lignes de codes et de commentaires. Une fois fini, vérifier que les sous-dossiers créés contiennent bien les documents.
+
+- En ouvrant le fichier "try.log", la liste des fichiers non téléchargés apparait. Pour les avoir, soit refaire tourner le code, soit aller les chercher manuellement sur le site de la commune.
 
 
