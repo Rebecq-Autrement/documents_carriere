@@ -10,6 +10,8 @@ Script permettant le téléchargement des documents relatifs au projet d'extensi
 
 Ce script va créer des sous-dossiers selon la manière dont les fichiers ont été créé sur le site de la commune de Rebecq.
 
+Un fichier nommé "try.log" est également crée et contient le nom des fichiers pour lequel le téléchargement n'aurait pas fonctionné.
+
 # Installation
 
 ## Prérequis:
