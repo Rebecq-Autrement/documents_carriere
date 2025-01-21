@@ -32,7 +32,7 @@ getData.r est le seul fichier a simplement sourcer
 
 -   Ouvrez RStudio et créez un nouveau projet.
 
-![](\img\1.png)
+![](/img/1.png)
 
 -   Choississez le dossier qui vient d'être créé.
 
