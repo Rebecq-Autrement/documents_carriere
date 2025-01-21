@@ -26,8 +26,8 @@ sapply(files,function(x){
   # download the data
   try(download.file(x,dest,mode='wb',outFile = "try.log"))
 })
-
-#check number of files
-
-length(files)
-length(list.files("./dossier-initial/")) + length(list.files("./complements/"))
+# 
+# #check number of files
+# 
+# length(files)
+# length(list.files("./dossier-initial/")) + length(list.files("./complements/"))
